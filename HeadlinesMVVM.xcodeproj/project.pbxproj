@@ -99,6 +99,11 @@
 		7EA9FB14239F953500B485B5 /* HeadlinesMVVM */ = {
 			isa = PBXGroup;
 			children = (
+				7EA9FB49239F956900B485B5 /* Services */,
+				7EA9FB48239F955F00B485B5 /* Models */,
+				7EA9FB47239F955800B485B5 /* Cells */,
+				7EA9FB46239F954E00B485B5 /* Controllers */,
+				7EA9FB45239F954100B485B5 /* DataSources */,
 				7EA9FB15239F953500B485B5 /* AppDelegate.swift */,
 				7EA9FB17239F953500B485B5 /* SceneDelegate.swift */,
 				7EA9FB19239F953500B485B5 /* ViewController.swift */,
@@ -126,6 +131,41 @@
 				7EA9FB39239F953600B485B5 /* Info.plist */,
 			);
 			path = HeadlinesMVVMUITests;
+			sourceTree = "<group>";
+		};
+		7EA9FB45239F954100B485B5 /* DataSources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = DataSources;
+			sourceTree = "<group>";
+		};
+		7EA9FB46239F954E00B485B5 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		7EA9FB47239F955800B485B5 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		7EA9FB48239F955F00B485B5 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		7EA9FB49239F956900B485B5 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
